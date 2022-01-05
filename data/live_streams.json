@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "title": "Jugando con amigos",
+        "user": {
+            "id": 123,
+            "username": "FriendlyPerson",
+            "profile_pic_url": "unsplash_3DaHtm1a-8w.png",
+            "full_name": "Friendly Person"
+        },
+        "tags": [
+            "Spanish",
+            "Casual"
+        ],
+        "thumbnail_url": "Thumbnail 01.png",
+        "viewers_count": 147428,
+        "game": {
+            "id": 4,
+            "title": "Among Us",
+            "viewers_count": 300,
+            "url": "/among-us",
+            "thumbnail_url": "Among Us.png"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Loving this game",
+        "user": {
+            "id": 456,
+            "username": "LovingPerson",
+            "profile_pic_url": "unsplash_rOfBozD9pOE.png",
+            "full_name": "Loving Person"
+        },
+        "tags": [
+            "English",
+            "Casual"
+        ],
+        "thumbnail_url": "Thumbnail 02.png",
+        "viewers_count": 1111,
+        "game": {
+            "id": 6867,
+            "title": "Fortnite",
+            "viewers_count": 300,
+            "thumbnail_url": "Fortnite.png"
+        }
+    },
+    {
+        "id": 76,
+        "title": "Bored",
+        "user": {
+            "id": 789,
+            "username": "BoringPerson",
+            "profile_pic_url": "unsplash_3TLl_97HNJo.png",
+            "full_name": "Boring person"
+        },
+        "tags": [
+            "English",
+            "Pro Gamer"
+        ],
+        "thumbnail_url": "Thumbnail 03.png",
+        "viewers_count": 1233,
+        "game": {
+            "id": 6867,
+            "title": "Fortnite",
+            "viewers_count": 300,
+            "thumbnail_url": "Fortnite.png"
+        }
+    }
+]

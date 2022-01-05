@@ -1,0 +1,71 @@
+[
+    {
+        "id": 11,
+        "username": "jraulhernandezb",
+        "profile_pic_url": "unsplash_VWAzEW0bi58.png",
+        "full_name": "Juan Hernández",
+        "now_playing": {
+            "id": 787,
+            "title": "Jugando LOL",
+            "tags": [
+                "Spanish",
+                "Casual",
+                "Manco"
+            ],
+            "thumbnail_url": "Thumbnail 01.png",
+            "url": "/streams/23623",
+            "viewers_count": 14251,
+            "game": {
+                "id": 2,
+                "title": "League of Legends",
+                "thumbnail": "Fortnite.png"
+            }
+        }
+    },
+    {
+        "id": 98191,
+        "username": "GreatUser",
+        "profile_pic_url": "unsplash_3TLl_97HNJo.png",
+        "full_name": "Great User",
+        "now_playing": {
+            "id": 8,
+            "title": "Jugando among us",
+            "tags": [
+                "Spanish",
+                "Casual"
+            ],
+            "thumbnail_url": "Thumbnail 01.png",
+            "url": "/streams/723",
+            "viewers_count": 12341234,
+            "game": {
+                "id": 4,
+                "title": "Among Us",
+                "viewers_count": 300,
+                "thumbnail_url": "Among Us.png"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "username": "FunStufff",
+        "profile_pic_url": "unsplash_rOfBozD9pOE.png",
+        "full_name": "Fun Stuff The Man",
+        "now_playing": {
+            "id": 8,
+            "title": "MINECRA!",
+            "tags": [
+                "Spanish",
+                "Casual"
+            ],
+            "thumbnail_url": "Thumbnail 01.png",
+            "url": "/streams/6",
+            "viewers_count": 10001,
+            "game": {
+                "id": 1,
+                "title": "Minecraft",
+                "viewers_count": 300,
+                "thumbnail_url": "Minecraft.png"
+            }
+        }
+    }
+]
